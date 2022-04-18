@@ -1,5 +1,5 @@
 # softuni_PB
-SoftUni's Programming Basics with Python (inlc. exam tasks)
+SoftUni's Programming Basics with Java
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
